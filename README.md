@@ -10,6 +10,10 @@ A segmentation model based on Resnet18's Multi Human Segmentation Model (resnet1
 
 SegNet is a deep neural network for semantic segmentation, employing an encoder-decoder architecture. It reduces image dimensions in the encoder, uses pooling indices for precise upsampling in the decoder, and classifies pixels into predefined classes with softmax activation. 
 
+![image](https://github.com/sagmeister101/SeggyNet/assets/173954198/ff99ff39-ce06-47a4-ba5c-84d5caad761d)
+![image](https://github.com/sagmeister101/SeggyNet/assets/173954198/59571480-c2a2-442a-869f-33f1059f588a)
+
+
 This model in particular is trained to recognize and distinguish human components. For instance, it can recognize a face, a shirt, or any of the classes of object listed below.
 
 ![image](https://github.com/sagmeister101/SeggyNet/assets/173954198/d417be69-a61d-4f43-83e1-45e341323b10)
