@@ -1,6 +1,6 @@
 # SeggyNet
 
-A segmentation model based on Resnet18's Multi Human Segmentation Model (fcn-resnet18-mhp-640x360).
+A segmentation model based on Resnet18's Multi Human Segmentation Model (resnet18 mhp 640x360).
 
 
 ![image](https://github.com/sagmeister101/SeggyNet/assets/173954198/8dd9622f-c7ef-4a5c-afce-95df22a3fa70)
