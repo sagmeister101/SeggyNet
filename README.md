@@ -2,8 +2,8 @@
 
 A segmentation model based on Resnet18's Multi Human Segmentation Model (resnet18 mhp 640x360).
 
+![tanav colourful](https://github.com/sagmeister101/SeggyNet/assets/173954198/887198bc-4594-4670-9beb-fbf1abeae878)
 
-![image](https://github.com/sagmeister101/SeggyNet/assets/173954198/8dd9622f-c7ef-4a5c-afce-95df22a3fa70)
 
 
 ## The Algorithm
@@ -18,7 +18,9 @@ This model in particular is trained to recognize and distinguish human component
 
 ![image](https://github.com/sagmeister101/SeggyNet/assets/173954198/d417be69-a61d-4f43-83e1-45e341323b10)
 
+![hand](https://github.com/sagmeister101/SeggyNet/assets/173954198/c3034334-0fb0-4bd8-a603-fedfe0df65d3)
 
+![group](https://github.com/sagmeister101/SeggyNet/assets/173954198/0808c005-0203-40b9-a94d-c96d98319ed4)
 
 
 ## Running this project
