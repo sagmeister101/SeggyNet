@@ -25,7 +25,19 @@ This model in particular is trained to recognize and distinguish human component
 
 ## Running this project
 
-1. Add steps for running this project.
-2. Make sure to include any required libraries that need to be installed for your project to run.
+Step 1.Make sure you have the jetson-inference library installed. If not, do so first.
 
-[View a video explanation here](video link)
+  https://github.com/dusty-nv/jetson-inference/blob/master/README.md
+
+Step 2. Navigate to the jetson-inference directory and run the docker.
+
+![image](https://github.com/sagmeister101/SeggyNet/assets/173954198/a5d3db28-3611-4fa6-9b80-4980378d521e)
+
+
+Step 3. download seggynet.py and segnet_utils.py from the git/main branch.(It doesn't matter which directory you put these in)
+
+
+Step 4. Run the program using the follow command line ([YOUR INPUT] is whatever your camera device is named):
+   python3 seggynet.py [YOUR INPUT] --visualize overlay,mask --network=fcn-resnet18-mhp-640x360
+    
+
