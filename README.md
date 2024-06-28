@@ -1,6 +1,6 @@
 # SeggyNet
 
-A segmentation model based on Resnet18's Multi Human Segmentation Model (resnet18 mhp 640x360).
+A segmentation model based on Resnet18's Multi Human Segmentation Model (resnet18 mhp 640x360). It's purpose is to demonstrate the potential of segmentation ai in the field of real-time computer graphics.
 
 ![tanav colourful](https://github.com/sagmeister101/SeggyNet/assets/173954198/887198bc-4594-4670-9beb-fbf1abeae878)
 
@@ -39,5 +39,10 @@ Step 3. download seggynet.py and segnet_utils.py from the git/main branch.(It do
 
 Step 4. Run the program using the follow command line ([YOUR INPUT] is whatever your camera device is named):
    python3 seggynet.py [YOUR INPUT] --visualize overlay,mask --network=fcn-resnet18-mhp-640x360
+
+
+##Video Demonstration
+
+  https://www.youtube.com/watch?v=MBtivYk0QFk
     
 
